@@ -1,69 +1,53 @@
-💻 Freelancer Management System
-📝 Project Description
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-Freelancer Management System is a web-based application using PHP and MySQL. It helps manage freelancers, projects, and tasks efficiently.
+# 💻 Freelancer Management System
+A PHP & MySQL-based web app to manage freelancers, projects, and tasks efficiently 🚀
 
-Key Features
+<img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="50%" alt="Project Banner"/>
 
-📊 Track progress of ongoing projects
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-👤 Manage freelancer profiles
+## ✨ Features
 
-✅ Assign tasks and monitor deadlines
+- 👤 Manage freelancer profiles  
+- 📊 Track progress of ongoing projects  
+- ✅ Assign tasks and monitor deadlines  
+- 📈 Real-time status updates on the dashboard  
+- 🔄 CRUD operations for users and projects  
 
-📈 Real-time status updates on the dashboard
+---
 
-🔄 CRUD operations for users and projects
+## ⚡ Tech Stack
 
-🎯 Objectives
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Extras**: Multithreading, Thread Synchronization, Exception Handling  
 
-Build an efficient and responsive system with PHP
+---
 
-Streamline project management operations
+## 🎯 Objectives
 
-Implement multithreading, thread synchronization, and exception handling
+- Build an efficient and responsive system  
+- Streamline project management operations  
+- Ensure system robustness with multithreading & synchronization  
+- Improve code reliability with generics and reusable structures  
+- Validate functionality through testing and debugging  
+- Apply modular design for easy future enhancements  
 
-Use generics for type-safe and reusable data structures
+---
 
-Ensure functionality and reliability through testing
+## 📚 User Guide
 
-Apply modular design for easy future enhancements
+### 🔑 Login Page
+- Users log in with credentials to access the system  
 
-🛠️ Technologies Used
+### 🛡️ Admin Panel
+- Manage freelancers, projects, and tasks  
+- Track project progress and deadlines  
+- Update or delete user/project data  
 
-PHP
-
-MySQL
-
-HTML, CSS, JavaScript
-
-✨ Features
-
-🛡️ Admin Panel for managing freelancers and projects
-
-👨‍💻 Freelancer Dashboard to view assigned tasks
-
-⏰ Task assignment and deadline tracking
-
-🔄 CRUD operations for users and projects
-
-📚 User Guide
-🔑 Login Page
-
-Users log in with their credentials to access the system.
-
-🛡️ Admin Side
-
-Manage freelancers, projects, and tasks
-
-Track project progress and deadlines
-
-Update or delete user/project data
-
-👨‍💻 Freelancer Side
-
-View assigned tasks
-
-Update task progress
-
-Monitor deadlines
+### 👨‍💻 Freelancer Dashboard
+- View assigned tasks  
+- Update task progress  
+- Monitor deadlines  
