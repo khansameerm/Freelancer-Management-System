@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 💻 Freelancer Management System
+<h1 align="center"> # 💻 Freelancer Management System </h1>
 A PHP & MySQL-based web app to manage freelancers, projects, and tasks efficiently 🚀
 
 <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="50%" alt="Project Banner"/>
